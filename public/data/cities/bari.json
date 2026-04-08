@@ -1,0 +1,24 @@
+{
+  "slug": "bari",
+  "name": "Bari",
+  "provinceSlug": "bari",
+  "provinceName": "Bari",
+  "regionSlug": "puglia",
+  "regionName": "Puglia",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "schoolCount<3",
+  "h1": "Scuole a Bari: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Bari: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Bari per tipologia, quartiere e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": { "lat": 41.1171, "lng": 16.8719 },
+  "schoolTypeStats": [
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1 }
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

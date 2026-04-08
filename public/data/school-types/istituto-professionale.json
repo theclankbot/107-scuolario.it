@@ -1,0 +1,14 @@
+{
+  "slug": "istituto-professionale",
+  "label": "Istituto professionale",
+  "schoolLevelGroup": "secondaria-secondo-grado",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Istituti professionali in Italia: cerca per città e provincia",
+  "metaTitle": "Istituti professionali in Italia | Città, province e scuole",
+  "metaDescription": "Scopri istituti professionali in Italia per città e provincia con dati ufficiali, contatti e pagine istituto.",
+  "intro": "L'istituto professionale prepara gli studenti all'ingresso diretto nel mondo del lavoro attraverso percorsi pratici e tirocini. Gli indirizzi coprono settori come enogastronomia, manutenzione, servizi socio-sanitari e arti ausiliarie.",
+  "schoolCount": 2100,
+  "featuredRegionSlugs": ["lombardia", "campania", "lazio"],
+  "featuredCitySlugs": ["roma", "milano", "napoli"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

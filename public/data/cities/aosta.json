@@ -1,0 +1,24 @@
+{
+  "slug": "aosta",
+  "name": "Aosta",
+  "provinceSlug": "aosta",
+  "provinceName": "Aosta",
+  "regionSlug": "valle-d-aosta",
+  "regionName": "Valle d'Aosta",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "copertura insufficiente - pubblicazione futura",
+  "h1": "Scuole ad Aosta: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole ad Aosta: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole ad Aosta per tipologia e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": {"lat": 45.74, "lng": 7.32},
+  "schoolTypeStats": [
+    {"slug": "liceo-classico", "label": "Liceo classico", "schoolCount": 1}
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

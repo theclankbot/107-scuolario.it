@@ -1,0 +1,24 @@
+{
+  "slug": "l-aquila",
+  "name": "L'Aquila",
+  "provinceSlug": "l-aquila",
+  "provinceName": "L'Aquila",
+  "regionSlug": "abruzzo",
+  "regionName": "Abruzzo",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "copertura insufficiente - pubblicazione futura",
+  "h1": "Scuole a L'Aquila: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a L'Aquila: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a L'Aquila per tipologia e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": {"lat": 42.35, "lng": 13.40},
+  "schoolTypeStats": [
+    {"slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1}
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

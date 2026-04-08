@@ -1,0 +1,19 @@
+{
+  "slug": "veneto",
+  "name": "Veneto",
+  "code": "05",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in Veneto: cerca per provincia, comune e tipologia",
+  "metaTitle": "Scuole in Veneto: province, comuni e tipologie | Scuolario",
+  "metaDescription": "Trova scuole in Veneto per provincia, comune e tipologia con dati ufficiali e pagine più facili da consultare.",
+  "provinceCount": 7,
+  "publishedProvinceCount": 7,
+  "publishedCityCount": 8,
+  "publishedSchoolCount": 180,
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 50 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 35 }
+  ],
+  "featuredProvinceSlugs": ["venezia", "verona", "padova"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro", "https://dati.istruzione.it/opendata/"]
+}

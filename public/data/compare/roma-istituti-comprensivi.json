@@ -1,0 +1,16 @@
+{
+  "slug": "roma-istituti-comprensivi",
+  "title": "Confronta istituti comprensivi a Roma",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Confronta istituti comprensivi a Roma: dati ufficiali a confronto",
+  "metaTitle": "Confronta istituti comprensivi a Roma | Scuolario",
+  "metaDescription": "Confronta gli istituti comprensivi di Roma con dati ufficiali MIM: contatti, servizi, documenti e informazioni utili senza classifiche inventate.",
+  "citySlug": "roma",
+  "cityName": "Roma",
+  "schoolTypeSlug": "istituto-comprensivo",
+  "schoolTypeLabel": "Istituto comprensivo",
+  "schoolCodes": ["RMIC8F2007", "RMIC8GE009"],
+  "fields": ["address.full", "contacts.phone", "contacts.email", "contacts.pec", "contacts.websiteUrl", "availability.hasServizi", "availability.hasPtof", "availability.hasRav", "servicesSummary.hasDigitalLabs"],
+  "comparisonNotes": ["Il confronto mostra solo campi presenti nelle fonti ufficiali", "Nessuna classifica o punteggio sintetico"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

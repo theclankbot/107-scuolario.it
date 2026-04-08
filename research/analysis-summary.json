@@ -1,0 +1,1391 @@
+{
+  "seed_rows": 30003,
+  "seed_total_volume": 5341700,
+  "seed_top20": [
+    {
+      "Keyword": "hub scuola",
+      "Volume": 201000,
+      "Keyword Difficulty": 37.0,
+      "intent": "navigational",
+      "cluster": "official_tools"
+    },
+    {
+      "Keyword": "orizzonte scuola",
+      "Volume": 165000,
+      "Keyword Difficulty": 67.0,
+      "intent": "navigational",
+      "cluster": "official_tools"
+    },
+    {
+      "Keyword": "scuola futura",
+      "Volume": 110000,
+      "Keyword Difficulty": 57.0,
+      "intent": "informational",
+      "cluster": "careers_learning"
+    },
+    {
+      "Keyword": "scuola",
+      "Volume": 110000,
+      "Keyword Difficulty": 73.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "axios scuola digitale",
+      "Volume": 60500,
+      "Keyword Difficulty": 20.0,
+      "intent": "informational",
+      "cluster": "careers_learning"
+    },
+    {
+      "Keyword": "alternanza scuola lavoro",
+      "Volume": 49500,
+      "Keyword Difficulty": 35.0,
+      "intent": "informational",
+      "cluster": "careers_learning"
+    },
+    {
+      "Keyword": "giunti scuola",
+      "Volume": 27100,
+      "Keyword Difficulty": 40.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "quanti giorni mancano alla fine della scuola",
+      "Volume": 18100,
+      "Keyword Difficulty": 25.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "dea scuola",
+      "Volume": 18100,
+      "Keyword Difficulty": 43.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuole chiuse",
+      "Volume": 14800,
+      "Keyword Difficulty": 25.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "rinnovo contratto scuola",
+      "Volume": 14800,
+      "Keyword Difficulty": 40.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "contratto scuola",
+      "Volume": 12100,
+      "Keyword Difficulty": 30.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuola primaria",
+      "Volume": 12100,
+      "Keyword Difficulty": 30.0,
+      "intent": "informational",
+      "cluster": "school_types"
+    },
+    {
+      "Keyword": "scuola viva",
+      "Volume": 12100,
+      "Keyword Difficulty": 33.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuola di polizia",
+      "Volume": 12100,
+      "Keyword Difficulty": 37.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "cisl scuola",
+      "Volume": 12100,
+      "Keyword Difficulty": 45.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuola in chiaro",
+      "Volume": 12100,
+      "Keyword Difficulty": null,
+      "intent": "navigational",
+      "cluster": "official_tools"
+    },
+    {
+      "Keyword": "scuola holden",
+      "Volume": 9900,
+      "Keyword Difficulty": 52.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuole",
+      "Volume": 9900,
+      "Keyword Difficulty": 58.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "pagopa scuola",
+      "Volume": 9900,
+      "Keyword Difficulty": 69.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    }
+  ],
+  "intent_breakdown": [
+    {
+      "intent": "informational",
+      "keywords": 28459,
+      "volume": 4667190
+    },
+    {
+      "intent": "navigational",
+      "keywords": 225,
+      "volume": 466000
+    },
+    {
+      "intent": "transactional",
+      "keywords": 1048,
+      "volume": 189060
+    },
+    {
+      "intent": "commercial",
+      "keywords": 271,
+      "volume": 19450
+    }
+  ],
+  "cluster_breakdown": [
+    {
+      "cluster": "general_school_queries",
+      "keywords": 16834,
+      "volume": 3081010
+    },
+    {
+      "cluster": "school_types",
+      "keywords": 8020,
+      "volume": 833950
+    },
+    {
+      "cluster": "official_tools",
+      "keywords": 173,
+      "volume": 452450
+    },
+    {
+      "cluster": "geography",
+      "keywords": 3269,
+      "volume": 434640
+    },
+    {
+      "cluster": "careers_learning",
+      "keywords": 979,
+      "volume": 410120
+    },
+    {
+      "cluster": "administrative",
+      "keywords": 728,
+      "volume": 129530
+    }
+  ],
+  "volume_distribution": [
+    {
+      "bucket": "50k+",
+      "keywords": 5,
+      "volume": 646500
+    },
+    {
+      "bucket": "10k-49.9k",
+      "keywords": 12,
+      "volume": 215000
+    },
+    {
+      "bucket": "1k-9.9k",
+      "keywords": 687,
+      "volume": 1417100
+    },
+    {
+      "bucket": "100-999",
+      "keywords": 8349,
+      "volume": 2073210
+    },
+    {
+      "bucket": "0-99",
+      "keywords": 20950,
+      "volume": 989890
+    }
+  ],
+  "kd_distribution": [
+    {
+      "bucket": "unknown/0-14",
+      "keywords": 22569
+    },
+    {
+      "bucket": "15-29",
+      "keywords": 5486
+    },
+    {
+      "bucket": "30-49",
+      "keywords": 1743
+    },
+    {
+      "bucket": "50-69",
+      "keywords": 194
+    },
+    {
+      "bucket": "70-100",
+      "keywords": 11
+    }
+  ],
+  "quick_wins": [
+    {
+      "Keyword": "axios scuola digitale",
+      "Volume": 60500,
+      "Keyword Difficulty": 20.0,
+      "intent": "informational",
+      "cluster": "careers_learning"
+    },
+    {
+      "Keyword": "quanti giorni mancano alla fine della scuola",
+      "Volume": 18100,
+      "Keyword Difficulty": 25.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuole chiuse",
+      "Volume": 14800,
+      "Keyword Difficulty": 25.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "pagamento fis scuola 2025",
+      "Volume": 8100,
+      "Keyword Difficulty": 9.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "la scuola di atene",
+      "Volume": 8100,
+      "Keyword Difficulty": 20.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuola di atene",
+      "Volume": 8100,
+      "Keyword Difficulty": 21.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuole chiuse domani",
+      "Volume": 8100,
+      "Keyword Difficulty": 21.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuola secondaria di secondo grado",
+      "Volume": 8100,
+      "Keyword Difficulty": 27.0,
+      "intent": "informational",
+      "cluster": "school_types"
+    },
+    {
+      "Keyword": "miur alternanza scuola lavoro",
+      "Volume": 6600,
+      "Keyword Difficulty": 23.0,
+      "intent": "navigational",
+      "cluster": "official_tools"
+    },
+    {
+      "Keyword": "scuola materna",
+      "Volume": 6600,
+      "Keyword Difficulty": 23.0,
+      "intent": "informational",
+      "cluster": "school_types"
+    },
+    {
+      "Keyword": "scuola superiore",
+      "Volume": 6600,
+      "Keyword Difficulty": 28.0,
+      "intent": "informational",
+      "cluster": "school_types"
+    },
+    {
+      "Keyword": "pnrr scuola",
+      "Volume": 5400,
+      "Keyword Difficulty": 19.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuole chiuse 5 maggio 2025",
+      "Volume": 5400,
+      "Keyword Difficulty": 20.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "quanto manca alla fine della scuola",
+      "Volume": 5400,
+      "Keyword Difficulty": 24.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "pdp scuola",
+      "Volume": 4400,
+      "Keyword Difficulty": 8.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "fis scuola 2025",
+      "Volume": 4400,
+      "Keyword Difficulty": 10.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "allerta meteo lazio domani scuole chiuse",
+      "Volume": 4400,
+      "Keyword Difficulty": 14.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "arretrati scuola",
+      "Volume": 4400,
+      "Keyword Difficulty": 15.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "codice meccanografico scuole",
+      "Volume": 4400,
+      "Keyword Difficulty": 15.0,
+      "intent": "informational",
+      "cluster": "administrative"
+    },
+    {
+      "Keyword": "america scuola",
+      "Volume": 4400,
+      "Keyword Difficulty": 17.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "concorso scuola 2025",
+      "Volume": 4400,
+      "Keyword Difficulty": 20.0,
+      "intent": "informational",
+      "cluster": "careers_learning"
+    },
+    {
+      "Keyword": "iscrizione scuola primaria",
+      "Volume": 4400,
+      "Keyword Difficulty": 21.0,
+      "intent": "transactional",
+      "cluster": "school_types"
+    },
+    {
+      "Keyword": "i filosofi della scuola di marburgo",
+      "Volume": 4400,
+      "Keyword Difficulty": 22.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuola dell'infanzia",
+      "Volume": 4400,
+      "Keyword Difficulty": 24.0,
+      "intent": "informational",
+      "cluster": "school_types"
+    },
+    {
+      "Keyword": "scuola attiva kids",
+      "Volume": 4400,
+      "Keyword Difficulty": 25.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "scuole chiuse domani campania",
+      "Volume": 4400,
+      "Keyword Difficulty": 25.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "grembiule scuola",
+      "Volume": 3600,
+      "Keyword Difficulty": 10.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    },
+    {
+      "Keyword": "diploma di scuola secondaria di secondo grado",
+      "Volume": 3600,
+      "Keyword Difficulty": 13.0,
+      "intent": "informational",
+      "cluster": "school_types"
+    },
+    {
+      "Keyword": "scuola media statale via stoccolma",
+      "Volume": 3600,
+      "Keyword Difficulty": 13.0,
+      "intent": "informational",
+      "cluster": "school_types"
+    },
+    {
+      "Keyword": "zaino scuola",
+      "Volume": 3600,
+      "Keyword Difficulty": 13.0,
+      "intent": "informational",
+      "cluster": "general_school_queries"
+    }
+  ],
+  "competitors": [
+    {
+      "domain": "unica.istruzione.gov.it",
+      "rows": 30000,
+      "school_rows": 9529,
+      "top_keywords": [
+        {
+          "Keyword": "scuola",
+          "Position": 6,
+          "Search Volume": 110000,
+          "Keyword Difficulty": 68.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"
+        },
+        {
+          "Keyword": "scuola in chiaro",
+          "Position": 1,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 20.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"
+        },
+        {
+          "Keyword": "liceo scientifico",
+          "Position": 2,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 41.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/scientifico"
+        },
+        {
+          "Keyword": "scuola in chiaro",
+          "Position": 3,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 20.0,
+          "URL": "https://unica.istruzione.gov.it/sic"
+        },
+        {
+          "Keyword": "scuola primaria",
+          "Position": 3,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 34.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-primaria"
+        },
+        {
+          "Keyword": "liceo scientifico",
+          "Position": 5,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 41.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/scientifico-opzione-scienze-applicate"
+        },
+        {
+          "Keyword": "scuola primaria",
+          "Position": 17,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 34.0,
+          "URL": "https://unica.istruzione.gov.it/cercalatuascuola/istituti/RMEE8AL11G/scuola-primaria-roviano/"
+        },
+        {
+          "Keyword": "scuola in chiaro",
+          "Position": 21,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 20.0,
+          "URL": "https://unica.istruzione.gov.it/cercalatuascuola/istituti/APAA82202E/capoluogo/"
+        },
+        {
+          "Keyword": "scuola in chiaro",
+          "Position": 22,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 20.0,
+          "URL": "https://unica.istruzione.gov.it/cercalatuascuola/istituti/RMIC8F2007/ic-sandro-onofri/"
+        },
+        {
+          "Keyword": "scuola viva",
+          "Position": 23,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 31.0,
+          "URL": "https://unica.istruzione.gov.it/cercalatuascuola/istituti/CS1A06500B/smnon-s-castrovillari-scuola-viva/"
+        },
+        {
+          "Keyword": "scuola in chiaro",
+          "Position": 23,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 20.0,
+          "URL": "https://unica.istruzione.gov.it/cercalatuascuola/istituti/RMMM8CH01B/via-a-severo-/"
+        },
+        {
+          "Keyword": "pagopa scuola",
+          "Position": 2,
+          "Search Volume": 9900,
+          "Keyword Difficulty": 67.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/pago-in-rete"
+        },
+        {
+          "Keyword": "liceo",
+          "Position": 2,
+          "Search Volume": 9900,
+          "Keyword Difficulty": 45.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/classico"
+        },
+        {
+          "Keyword": "istituto comprensivo",
+          "Position": 18,
+          "Search Volume": 9900,
+          "Keyword Difficulty": 40.0,
+          "URL": "https://unica.istruzione.gov.it/cercalatuascuola/istituti/SSIC856001/istituto-comprensivo-brigata-sa/"
+        },
+        {
+          "Keyword": "pago in rete scuole",
+          "Position": 1,
+          "Search Volume": 8100,
+          "Keyword Difficulty": 9.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/pago-in-rete"
+        },
+        {
+          "Keyword": "pago in rete scuole",
+          "Position": 1,
+          "Search Volume": 8100,
+          "Keyword Difficulty": 9.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/pago-in-rete"
+        },
+        {
+          "Keyword": "pago in rete scuole",
+          "Position": 2,
+          "Search Volume": 8100,
+          "Keyword Difficulty": 9.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/pago-in-rete"
+        },
+        {
+          "Keyword": "liceo scienze umane",
+          "Position": 2,
+          "Search Volume": 8100,
+          "Keyword Difficulty": 16.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/scienze-umane"
+        },
+        {
+          "Keyword": "liceo artistico",
+          "Position": 2,
+          "Search Volume": 8100,
+          "Keyword Difficulty": 48.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/artistico"
+        },
+        {
+          "Keyword": "liceo artistico",
+          "Position": 23,
+          "Search Volume": 8100,
+          "Keyword Difficulty": 48.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/liceo/artistico"
+        },
+        {
+          "Keyword": "liceo classico",
+          "Position": 2,
+          "Search Volume": 6600,
+          "Keyword Difficulty": 29.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/classico"
+        },
+        {
+          "Keyword": "scuola superiore",
+          "Position": 19,
+          "Search Volume": 6600,
+          "Keyword Difficulty": 37.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/iscrizioni"
+        },
+        {
+          "Keyword": "scuola materna",
+          "Position": 20,
+          "Search Volume": 6600,
+          "Keyword Difficulty": 27.0,
+          "URL": "https://unica.istruzione.gov.it/sic"
+        },
+        {
+          "Keyword": "iscrizione scuole superiori",
+          "Position": 2,
+          "Search Volume": 5400,
+          "Keyword Difficulty": 20.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/iscrizioni"
+        },
+        {
+          "Keyword": "iscrizione scuole superiori",
+          "Position": 3,
+          "Search Volume": 5400,
+          "Keyword Difficulty": 20.0,
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/iscrizioni"
+        }
+      ],
+      "top_urls": [
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro",
+          "Search Volume": 184220
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/sic",
+          "Search Volume": 142210
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/iscrizioni",
+          "Search Volume": 97220
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/pago-in-rete",
+          "Search Volume": 69860
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/scientifico-opzione-scienze-applicate",
+          "Search Volume": 61550
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/classico",
+          "Search Volume": 43930
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/scientifico",
+          "Search Volume": 38510
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-primaria",
+          "Search Volume": 25900
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/liceo/artistico",
+          "Search Volume": 23100
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/scienze-umane",
+          "Search Volume": 21360
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/scientifico-sezione-a-indirizzo-sportivo",
+          "Search Volume": 19870
+        },
+        {
+          "URL": "https://unica.istruzione.gov.it/portale/it/orientamento/guida-alla-scelta/dal-sistema-integrato-0-6-anni-al-secondo-ciclo-di-istruzione/scuola-secondaria-di-secondo-grado/licei/linguistico",
+          "Search Volume": 19370
+        }
+      ]
+    },
+    {
+      "domain": "tuttitalia.it",
+      "rows": 30000,
+      "school_rows": 510,
+      "top_keywords": [
+        {
+          "Keyword": "liceo scientifico",
+          "Position": 3,
+          "Search Volume": 12100,
+          "Keyword Difficulty": 41.0,
+          "URL": "https://www.tuttitalia.it/scuole/liceo-scientifico/"
+        },
+        {
+          "Keyword": "campofelice di roccella",
+          "Position": 15,
+          "Search Volume": 9900,
+          "Keyword Difficulty": 25.0,
+          "URL": "https://www.tuttitalia.it/sicilia/62-campofelice-di-roccella/"
+        },
+        {
+          "Keyword": "san felice a cancello",
+          "Position": 4,
+          "Search Volume": 8100,
+          "Keyword Difficulty": 31.0,
+          "URL": "https://www.tuttitalia.it/campania/77-san-felice-a-cancello/"
+        },
+        {
+          "Keyword": "san felice sul panaro",
+          "Position": 12,
+          "Search Volume": 8100,
+          "Keyword Difficulty": 25.0,
+          "URL": "https://www.tuttitalia.it/emilia-romagna/62-san-felice-sul-panaro/"
+        },
+        {
+          "Keyword": "liceo scienze umane",
+          "Position": 14,
+          "Search Volume": 8100,
+          "Keyword Difficulty": 16.0,
+          "URL": "https://www.tuttitalia.it/lombardia/18-milano/39-scuole/liceo-scienze-umane/"
+        },
+        {
+          "Keyword": "negrar di valpolicella",
+          "Position": 1,
+          "Search Volume": 6600,
+          "Keyword Difficulty": 21.0,
+          "URL": "https://www.tuttitalia.it/veneto/18-negrar-di-valpolicella/"
+        },
+        {
+          "Keyword": "negrar di valpolicella",
+          "Position": 5,
+          "Search Volume": 6600,
+          "Keyword Difficulty": 21.0,
+          "URL": "https://www.tuttitalia.it/veneto/18-negrar-di-valpolicella/"
+        },
+        {
+          "Keyword": "salice salentino",
+          "Position": 8,
+          "Search Volume": 6600,
+          "Keyword Difficulty": 19.0,
+          "URL": "https://www.tuttitalia.it/puglia/98-salice-salentino/"
+        },
+        {
+          "Keyword": "rio saliceto",
+          "Position": 5,
+          "Search Volume": 5400,
+          "Keyword Difficulty": 28.0,
+          "URL": "https://www.tuttitalia.it/emilia-romagna/67-rio-saliceto/"
+        },
+        {
+          "Keyword": "san felice del benaco",
+          "Position": 5,
+          "Search Volume": 5400,
+          "Keyword Difficulty": 28.0,
+          "URL": "https://www.tuttitalia.it/lombardia/54-san-felice-del-benaco/"
+        },
+        {
+          "Keyword": "torre pellice",
+          "Position": 6,
+          "Search Volume": 5400,
+          "Keyword Difficulty": 27.0,
+          "URL": "https://www.tuttitalia.it/piemonte/76-torre-pellice/"
+        },
+        {
+          "Keyword": "scuole secondarie",
+          "Position": 17,
+          "Search Volume": 5400,
+          "Keyword Difficulty": 20.0,
+          "URL": "https://www.tuttitalia.it/lazio/33-roma/64-scuole/"
+        },
+        {
+          "Keyword": "licenza",
+          "Position": 9,
+          "Search Volume": 4400,
+          "Keyword Difficulty": 43.0,
+          "URL": "https://www.tuttitalia.it/lazio/64-licenza/"
+        },
+        {
+          "Keyword": "santa margherita belice",
+          "Position": 9,
+          "Search Volume": 4400,
+          "Keyword Difficulty": 24.0,
+          "URL": "https://www.tuttitalia.it/sicilia/36-santa-margherita-di-belice/"
+        },
+        {
+          "Keyword": "santa margherita belice",
+          "Position": 12,
+          "Search Volume": 4400,
+          "Keyword Difficulty": 24.0,
+          "URL": "https://www.tuttitalia.it/sicilia/36-santa-margherita-di-belice/"
+        },
+        {
+          "Keyword": "santa margherita di belice",
+          "Position": 13,
+          "Search Volume": 4400,
+          "Keyword Difficulty": 36.0,
+          "URL": "https://www.tuttitalia.it/sicilia/36-santa-margherita-di-belice/"
+        },
+        {
+          "Keyword": "scuole medie",
+          "Position": 4,
+          "Search Volume": 3600,
+          "Keyword Difficulty": 28.0,
+          "URL": "https://www.tuttitalia.it/scuole/scuola-secondaria-di-primo-grado/"
+        },
+        {
+          "Keyword": "marano di valpolicella",
+          "Position": 8,
+          "Search Volume": 3600,
+          "Keyword Difficulty": 22.0,
+          "URL": "https://www.tuttitalia.it/veneto/72-marano-di-valpolicella/"
+        },
+        {
+          "Keyword": "fontanelice",
+          "Position": 8,
+          "Search Volume": 3600,
+          "Keyword Difficulty": 34.0,
+          "URL": "https://www.tuttitalia.it/emilia-romagna/87-fontanelice/"
+        },
+        {
+          "Keyword": "baselice",
+          "Position": 7,
+          "Search Volume": 2900,
+          "Keyword Difficulty": 35.0,
+          "URL": "https://www.tuttitalia.it/campania/87-baselice/"
+        },
+        {
+          "Keyword": "godiasco salice terme",
+          "Position": 3,
+          "Search Volume": 2400,
+          "Keyword Difficulty": 31.0,
+          "URL": "https://www.tuttitalia.it/lombardia/84-godiasco-salice-terme/"
+        },
+        {
+          "Keyword": "cantalice",
+          "Position": 5,
+          "Search Volume": 2400,
+          "Keyword Difficulty": 23.0,
+          "URL": "https://www.tuttitalia.it/lazio/36-cantalice/"
+        },
+        {
+          "Keyword": "primaria",
+          "Position": 7,
+          "Search Volume": 2400,
+          "Keyword Difficulty": 37.0,
+          "URL": "https://www.tuttitalia.it/scuole/scuola-primaria/"
+        },
+        {
+          "Keyword": "calice ligure",
+          "Position": 10,
+          "Search Volume": 2400,
+          "Keyword Difficulty": 35.0,
+          "URL": "https://www.tuttitalia.it/liguria/34-calice-ligure/"
+        },
+        {
+          "Keyword": "salice terme godiasco",
+          "Position": 14,
+          "Search Volume": 2400,
+          "Keyword Difficulty": 23.0,
+          "URL": "https://www.tuttitalia.it/lombardia/84-godiasco-salice-terme/"
+        }
+      ],
+      "top_urls": [
+        {
+          "URL": "https://www.tuttitalia.it/scuole/liceo-scientifico/",
+          "Search Volume": 13610
+        },
+        {
+          "URL": "https://www.tuttitalia.it/veneto/18-negrar-di-valpolicella/",
+          "Search Volume": 13460
+        },
+        {
+          "URL": "https://www.tuttitalia.it/lombardia/18-milano/39-scuole/liceo-scienze-umane/",
+          "Search Volume": 13300
+        },
+        {
+          "URL": "https://www.tuttitalia.it/sicilia/36-santa-margherita-di-belice/",
+          "Search Volume": 13200
+        },
+        {
+          "URL": "https://www.tuttitalia.it/campania/77-san-felice-a-cancello/",
+          "Search Volume": 11170
+        },
+        {
+          "URL": "https://www.tuttitalia.it/emilia-romagna/62-san-felice-sul-panaro/",
+          "Search Volume": 11050
+        },
+        {
+          "URL": "https://www.tuttitalia.it/sicilia/62-campofelice-di-roccella/",
+          "Search Volume": 10860
+        },
+        {
+          "URL": "https://www.tuttitalia.it/lazio/33-roma/64-scuole/",
+          "Search Volume": 9060
+        },
+        {
+          "URL": "https://www.tuttitalia.it/scuole/",
+          "Search Volume": 8910
+        },
+        {
+          "URL": "https://www.tuttitalia.it/puglia/98-salice-salentino/",
+          "Search Volume": 6810
+        },
+        {
+          "URL": "https://www.tuttitalia.it/piemonte/76-torre-pellice/",
+          "Search Volume": 6640
+        },
+        {
+          "URL": "https://www.tuttitalia.it/emilia-romagna/67-rio-saliceto/",
+          "Search Volume": 6600
+        }
+      ]
+    },
+    {
+      "domain": "cercascuole.it",
+      "rows": 405,
+      "school_rows": 291,
+      "top_keywords": [
+        {
+          "Keyword": "scuola vicino a me",
+          "Position": 66,
+          "Search Volume": 2900,
+          "Keyword Difficulty": 42.0,
+          "URL": "https://www.cercascuole.it/"
+        },
+        {
+          "Keyword": "liceo carducci milano",
+          "Position": 81,
+          "Search Volume": 1600,
+          "Keyword Difficulty": 12.0,
+          "URL": "https://www.cercascuole.it/Scuola_Secondaria_Di_Ii_Grado-Carducci-cod-MIPC03000N.php"
+        },
+        {
+          "Keyword": "istituto comprensivo galice",
+          "Position": 44,
+          "Search Volume": 720,
+          "Keyword Difficulty": 30.0,
+          "URL": "https://www.cercascuole.it/Scuola_Dell_infanzia-Ist__Comprensivo_Ennio_Galice-cod-RMAA8B901C.php"
+        },
+        {
+          "Keyword": "istituto comprensivo civitavecchia 1",
+          "Position": 55,
+          "Search Volume": 720,
+          "Keyword Difficulty": 15.0,
+          "URL": "https://www.cercascuole.it/Istituto_Comprensivo-Civitavecchia_-_G__Manzi-cod-RMIC850001.php"
+        },
+        {
+          "Keyword": "istituto comprensivo cantù 2",
+          "Position": 31,
+          "Search Volume": 590,
+          "Keyword Difficulty": 27.0,
+          "URL": "https://www.cercascuole.it/Scuola_Primaria-I_c__Cantu_2-cod-COEE838047.php"
+        },
+        {
+          "Keyword": "scuole a pordenone",
+          "Position": 35,
+          "Search Volume": 590,
+          "Keyword Difficulty": 17.0,
+          "URL": "https://www.cercascuole.it/scuole-a-Pordenone.php"
+        },
+        {
+          "Keyword": "ic galice",
+          "Position": 36,
+          "Search Volume": 590,
+          "Keyword Difficulty": 10.0,
+          "URL": "https://www.cercascuole.it/Scuola_Dell_infanzia-Ist__Comprensivo_Ennio_Galice-cod-RMAA8B901C.php"
+        },
+        {
+          "Keyword": "molisescuola",
+          "Position": 50,
+          "Search Volume": 590,
+          "Keyword Difficulty": 23.0,
+          "URL": "https://www.cercascuole.it/scuole-in-Molise.php"
+        },
+        {
+          "Keyword": "pordenone scuole",
+          "Position": 61,
+          "Search Volume": 590,
+          "Keyword Difficulty": 22.0,
+          "URL": "https://www.cercascuole.it/scuole-a-Pordenone.php"
+        },
+        {
+          "Keyword": "scuola per l'europa parma",
+          "Position": 63,
+          "Search Volume": 590,
+          "Keyword Difficulty": 12.0,
+          "URL": "https://www.cercascuole.it/Istituto_Comprensivo-Scuola_Per_L_Europa-cod-PRIC83700E.php"
+        },
+        {
+          "Keyword": "istituto scolastico",
+          "Position": 78,
+          "Search Volume": 590,
+          "Keyword Difficulty": 34.0,
+          "URL": "https://www.cercascuole.it/"
+        },
+        {
+          "Keyword": "istituto comprensivo zona leda",
+          "Position": 22,
+          "Search Volume": 480,
+          "Keyword Difficulty": 32.0,
+          "URL": "https://www.cercascuole.it/Scuola_Secondaria_Di_Ii_Grado-I_c__Zona_Leda_Aprilia-cod-LTAA831008.php"
+        },
+        {
+          "Keyword": "scuole pordenone",
+          "Position": 45,
+          "Search Volume": 480,
+          "Keyword Difficulty": 22.0,
+          "URL": "https://www.cercascuole.it/scuole-a-Pordenone.php"
+        },
+        {
+          "Keyword": "scuolaperleuropa parma",
+          "Position": 49,
+          "Search Volume": 480,
+          "Keyword Difficulty": 19.0,
+          "URL": "https://www.cercascuole.it/Istituto_Comprensivo-Scuola_Per_L_Europa-cod-PRIC83700E.php"
+        },
+        {
+          "Keyword": "molise scuole",
+          "Position": 53,
+          "Search Volume": 480,
+          "Keyword Difficulty": 23.0,
+          "URL": "https://www.cercascuole.it/scuole-in-Molise.php"
+        },
+        {
+          "Keyword": "scuole pordenone",
+          "Position": 56,
+          "Search Volume": 480,
+          "Keyword Difficulty": 22.0,
+          "URL": "https://www.cercascuole.it/scuole-a-Pordenone.php"
+        },
+        {
+          "Keyword": "bologna scuole",
+          "Position": 63,
+          "Search Volume": 480,
+          "Keyword Difficulty": 34.0,
+          "URL": "https://www.cercascuole.it/scuole-a-Bologna.php"
+        },
+        {
+          "Keyword": "scuolaperleuropa parma",
+          "Position": 88,
+          "Search Volume": 480,
+          "Keyword Difficulty": 19.0,
+          "URL": "https://www.cercascuole.it/Istituto_Comprensivo-Scuola_Per_L_Europa-cod-PRIC83700E.php"
+        },
+        {
+          "Keyword": "trova scuole",
+          "Position": 22,
+          "Search Volume": 390,
+          "Keyword Difficulty": 27.0,
+          "URL": "https://www.cercascuole.it/"
+        },
+        {
+          "Keyword": "scuole trento",
+          "Position": 64,
+          "Search Volume": 390,
+          "Keyword Difficulty": 20.0,
+          "URL": "https://www.cercascuole.it/scuole-a-Trento.php"
+        },
+        {
+          "Keyword": "istituto varalli milano",
+          "Position": 24,
+          "Search Volume": 320,
+          "Keyword Difficulty": 24.0,
+          "URL": "https://www.cercascuole.it/Istituto_Di_Istruzione_Superiore-Claudio_Varalli-cod-MIIS05100C.php"
+        },
+        {
+          "Keyword": "ennio galice civitavecchia",
+          "Position": 42,
+          "Search Volume": 320,
+          "Keyword Difficulty": 15.0,
+          "URL": "https://www.cercascuole.it/Scuola_Dell_infanzia-Ist__Comprensivo_Ennio_Galice-cod-RMAA8B901C.php"
+        },
+        {
+          "Keyword": "scuole a bari",
+          "Position": 53,
+          "Search Volume": 320,
+          "Keyword Difficulty": 22.0,
+          "URL": "https://www.cercascuole.it/scuole-a-Bari.php"
+        },
+        {
+          "Keyword": "scuole a brescia",
+          "Position": 53,
+          "Search Volume": 320,
+          "Keyword Difficulty": 23.0,
+          "URL": "https://www.cercascuole.it/scuole-a-Brescia.php"
+        },
+        {
+          "Keyword": "brescia scuole",
+          "Position": 54,
+          "Search Volume": 320,
+          "Keyword Difficulty": 16.0,
+          "URL": "https://www.cercascuole.it/scuole-a-Brescia.php"
+        }
+      ],
+      "top_urls": [
+        {
+          "URL": "https://www.cercascuole.it/",
+          "Search Volume": 4430
+        },
+        {
+          "URL": "https://www.cercascuole.it/Scuola_Dell_infanzia-Ist__Comprensivo_Ennio_Galice-cod-RMAA8B901C.php",
+          "Search Volume": 3650
+        },
+        {
+          "URL": "https://www.cercascuole.it/scuole-a-Pordenone.php",
+          "Search Volume": 2140
+        },
+        {
+          "URL": "https://www.cercascuole.it/Istituto_Comprensivo-Scuola_Per_L_Europa-cod-PRIC83700E.php",
+          "Search Volume": 1810
+        },
+        {
+          "URL": "https://www.cercascuole.it/scuole-a-Brescia.php",
+          "Search Volume": 1780
+        },
+        {
+          "URL": "https://www.cercascuole.it/Scuola_Secondaria_Di_Ii_Grado-Carducci-cod-MIPC03000N.php",
+          "Search Volume": 1600
+        },
+        {
+          "URL": "https://www.cercascuole.it/scuole-a-Ferrara.php",
+          "Search Volume": 1440
+        },
+        {
+          "URL": "https://www.cercascuole.it/scuole-a-Palermo.php",
+          "Search Volume": 1380
+        },
+        {
+          "URL": "https://www.cercascuole.it/scuole-in-Molise.php",
+          "Search Volume": 1070
+        },
+        {
+          "URL": "https://www.cercascuole.it/scuole-in-Piemonte.php",
+          "Search Volume": 940
+        },
+        {
+          "URL": "https://www.cercascuole.it/scuole-a-Foggia.php",
+          "Search Volume": 900
+        },
+        {
+          "URL": "https://www.cercascuole.it/Istituto_Comprensivo-Civitavecchia_-_G__Manzi-cod-RMIC850001.php",
+          "Search Volume": 860
+        }
+      ]
+    },
+    {
+      "domain": "scuoladvisor.it",
+      "rows": 1244,
+      "school_rows": 529,
+      "top_keywords": [
+        {
+          "Keyword": "istituto comprensivo san cesareo",
+          "Position": 40,
+          "Search Volume": 2400,
+          "Keyword Difficulty": 28.0,
+          "URL": "https://www.scuoladvisor.it/lazio/san-cesareo"
+        },
+        {
+          "Keyword": "istituto comprensivo nerviano",
+          "Position": 44,
+          "Search Volume": 1900,
+          "Keyword Difficulty": 29.0,
+          "URL": "https://www.scuoladvisor.it/lombardia/nerviano/istituto-comprensivo"
+        },
+        {
+          "Keyword": "manara liceo",
+          "Position": 73,
+          "Search Volume": 1600,
+          "Keyword Difficulty": 24.0,
+          "URL": "https://www.scuoladvisor.it/scuole/49940/manara"
+        },
+        {
+          "Keyword": "liceo manara",
+          "Position": 76,
+          "Search Volume": 1600,
+          "Keyword Difficulty": 19.0,
+          "URL": "https://www.scuoladvisor.it/scuole/49940/manara"
+        },
+        {
+          "Keyword": "liceo malpighi",
+          "Position": 80,
+          "Search Volume": 1600,
+          "Keyword Difficulty": 27.0,
+          "URL": "https://www.scuoladvisor.it/scuole/502"
+        },
+        {
+          "Keyword": "liceo scientifico milano",
+          "Position": 92,
+          "Search Volume": 1600,
+          "Keyword Difficulty": 18.0,
+          "URL": "https://www.scuoladvisor.it/lombardia/milano/liceo-scientifico"
+        },
+        {
+          "Keyword": "roma liceo scientifico",
+          "Position": 98,
+          "Search Volume": 1600,
+          "Keyword Difficulty": 42.0,
+          "URL": "https://www.scuoladvisor.it/lazio/roma/liceo-scientifico"
+        },
+        {
+          "Keyword": "istituto comprensivo gigi proietti",
+          "Position": 36,
+          "Search Volume": 1300,
+          "Keyword Difficulty": 27.0,
+          "URL": "https://www.scuoladvisor.it/scuole/34443"
+        },
+        {
+          "Keyword": "istituto comprensivo cetraro",
+          "Position": 39,
+          "Search Volume": 1300,
+          "Keyword Difficulty": 14.0,
+          "URL": "https://www.scuoladvisor.it/calabria/cetraro/istituto-comprensivo"
+        },
+        {
+          "Keyword": "liceo russell roma",
+          "Position": 50,
+          "Search Volume": 1300,
+          "Keyword Difficulty": 27.0,
+          "URL": "https://www.scuoladvisor.it/scuole/42963"
+        },
+        {
+          "Keyword": "istituto comprensivo toscanini",
+          "Position": 56,
+          "Search Volume": 1300,
+          "Keyword Difficulty": 29.0,
+          "URL": "https://www.scuoladvisor.it/scuole/3859/a-toscanini"
+        },
+        {
+          "Keyword": "liceo scientifico jesi",
+          "Position": 59,
+          "Search Volume": 1300,
+          "Keyword Difficulty": 19.0,
+          "URL": "https://www.scuoladvisor.it/marche/jesi/liceo-scientifico"
+        },
+        {
+          "Keyword": "liceo laura bassi bologna",
+          "Position": 66,
+          "Search Volume": 1300,
+          "Keyword Difficulty": 18.0,
+          "URL": "https://www.scuoladvisor.it/scuole/8694/liceo-laura-bassi"
+        },
+        {
+          "Keyword": "liceo scientifico a roma",
+          "Position": 85,
+          "Search Volume": 1300,
+          "Keyword Difficulty": null,
+          "URL": "https://www.scuoladvisor.it/lazio/roma/liceo-scientifico"
+        },
+        {
+          "Keyword": "liceo classico pescara",
+          "Position": 88,
+          "Search Volume": 1300,
+          "Keyword Difficulty": 28.0,
+          "URL": "https://www.scuoladvisor.it/scuole/1/lclassico-gabriele-dannunzio-pe"
+        },
+        {
+          "Keyword": "liceo scientifico eugenio curiel",
+          "Position": 18,
+          "Search Volume": 1000,
+          "Keyword Difficulty": 35.0,
+          "URL": "https://www.scuoladvisor.it/scuole/46681"
+        },
+        {
+          "Keyword": "istituto comprensivo settimo milanese",
+          "Position": 23,
+          "Search Volume": 1000,
+          "Keyword Difficulty": 28.0,
+          "URL": "https://www.scuoladvisor.it/lombardia/settimo-milanese/istituto-comprensivo"
+        },
+        {
+          "Keyword": "istituto comprensivo roncade",
+          "Position": 24,
+          "Search Volume": 1000,
+          "Keyword Difficulty": 29.0,
+          "URL": "https://www.scuoladvisor.it/veneto/roncade"
+        },
+        {
+          "Keyword": "istituto comprensivo san sosti",
+          "Position": 24,
+          "Search Volume": 1000,
+          "Keyword Difficulty": 38.0,
+          "URL": "https://www.scuoladvisor.it/calabria/san-sosti/istituto-comprensivo"
+        },
+        {
+          "Keyword": "liceo scientifico statale enrico fermi cantù",
+          "Position": 27,
+          "Search Volume": 1000,
+          "Keyword Difficulty": 19.0,
+          "URL": "https://www.scuoladvisor.it/scuole/7515"
+        },
+        {
+          "Keyword": "istituto comprensivo segni",
+          "Position": 30,
+          "Search Volume": 1000,
+          "Keyword Difficulty": 29.0,
+          "URL": "https://www.scuoladvisor.it/lazio/segni/istituto-comprensivo"
+        },
+        {
+          "Keyword": "istituto di istruzione superiore italo calvino",
+          "Position": 33,
+          "Search Volume": 1000,
+          "Keyword Difficulty": 34.0,
+          "URL": "https://www.scuoladvisor.it/scuole/3426"
+        },
+        {
+          "Keyword": "istituto comprensivo marchirolo",
+          "Position": 41,
+          "Search Volume": 1000,
+          "Keyword Difficulty": 12.0,
+          "URL": "https://www.scuoladvisor.it/lombardia/marchirolo/istituto-comprensivo"
+        },
+        {
+          "Keyword": "liceo scientifico guglielmo oberdan",
+          "Position": 42,
+          "Search Volume": 1000,
+          "Keyword Difficulty": 36.0,
+          "URL": "https://www.scuoladvisor.it/scuole/42360"
+        },
+        {
+          "Keyword": "istituto tecnico industriale statale alessandro rossi",
+          "Position": 42,
+          "Search Volume": 1000,
+          "Keyword Difficulty": 15.0,
+          "URL": "https://www.scuoladvisor.it/scuole/35854"
+        }
+      ],
+      "top_urls": [
+        {
+          "URL": "https://www.scuoladvisor.it/scuole/49940/manara",
+          "Search Volume": 3550
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/lazio/roma/liceo-scientifico",
+          "Search Volume": 2900
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/scuole/502",
+          "Search Volume": 2630
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/lazio/san-cesareo",
+          "Search Volume": 2400
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/scuole/27435",
+          "Search Volume": 2170
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/lombardia/milano/liceo-scientifico",
+          "Search Volume": 2080
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/scuole/10363",
+          "Search Volume": 2000
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/lombardia/nerviano/istituto-comprensivo",
+          "Search Volume": 1900
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/scuole/11628",
+          "Search Volume": 1450
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/scuole/42534",
+          "Search Volume": 1440
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/calabria/cetraro/istituto-comprensivo",
+          "Search Volume": 1300
+        },
+        {
+          "URL": "https://www.scuoladvisor.it/marche/jesi/liceo-scientifico",
+          "Search Volume": 1300
+        }
+      ]
+    }
+  ]
+}

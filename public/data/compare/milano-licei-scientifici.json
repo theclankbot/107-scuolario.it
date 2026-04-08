@@ -1,0 +1,16 @@
+{
+  "slug": "milano-licei-scientifici",
+  "title": "Confronta licei scientifici a Milano",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Confronta licei scientifici a Milano: dati ufficiali a confronto",
+  "metaTitle": "Confronta licei scientifici a Milano | Scuolario",
+  "metaDescription": "Confronta i licei scientifici di Milano con dati ufficiali MIM: contatti, servizi, documenti e informazioni utili senza classifiche inventate.",
+  "citySlug": "milano",
+  "cityName": "Milano",
+  "schoolTypeSlug": "liceo-scientifico",
+  "schoolTypeLabel": "Liceo scientifico",
+  "schoolCodes": ["MIPS01000B", "MIPS11000C", "MIPS020002"],
+  "fields": ["address.full", "contacts.phone", "contacts.email", "contacts.pec", "contacts.websiteUrl", "availability.hasServizi", "availability.hasPtof", "availability.hasRav", "servicesSummary.hasDigitalLabs"],
+  "comparisonNotes": ["Il confronto mostra solo campi presenti nelle fonti ufficiali", "Nessuna classifica o punteggio sintetico"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

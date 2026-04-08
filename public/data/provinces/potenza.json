@@ -1,0 +1,20 @@
+{
+  "slug": "potenza",
+  "name": "Potenza",
+  "displayName": "Provincia di Potenza",
+  "sigla": "PZ",
+  "regionSlug": "basilicata",
+  "publishedAt": null,
+  "h1": "Scuole in provincia di Potenza: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Potenza | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Potenza per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 60,
+  "publishedCityCount": 0,
+  "featuredCitySlugs": [],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 14 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 5 }
+  ],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "friuli-venezia-giulia",
+  "name": "Friuli-Venezia Giulia",
+  "code": "06",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in Friuli-Venezia Giulia: cerca per provincia, comune e tipologia",
+  "metaTitle": "Scuole in Friuli-Venezia Giulia: province, comuni e tipologie | Scuolario",
+  "metaDescription": "Trova scuole in Friuli-Venezia Giulia per provincia, comune e tipologia con dati ufficiali e pagine più facili da consultare.",
+  "provinceCount": 4,
+  "publishedProvinceCount": 2,
+  "publishedCityCount": 3,
+  "publishedSchoolCount": 40,
+  "topSchoolTypes": [
+    { "slug": "istituto-comprensivo", "label": "Istituto comprensivo", "schoolCount": 15 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 8 }
+  ],
+  "featuredProvinceSlugs": ["trieste"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro", "https://dati.istruzione.it/opendata/"]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "lombardia",
+  "name": "Lombardia",
+  "code": "03",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in Lombardia: cerca per provincia, comune e tipologia",
+  "metaTitle": "Scuole in Lombardia: province, comuni e tipologie | Scuolario",
+  "metaDescription": "Trova scuole in Lombardia per provincia, comune e tipologia con dati ufficiali e pagine più facili da consultare.",
+  "provinceCount": 12,
+  "publishedProvinceCount": 12,
+  "publishedCityCount": 15,
+  "publishedSchoolCount": 420,
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 110 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 80 }
+  ],
+  "featuredProvinceSlugs": ["milano", "brescia", "bergamo"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro", "https://dati.istruzione.it/opendata/"]
+}

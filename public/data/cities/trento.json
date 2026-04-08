@@ -1,0 +1,24 @@
+{
+  "slug": "trento",
+  "name": "Trento",
+  "provinceSlug": "trento",
+  "provinceName": "Trento",
+  "regionSlug": "trentino-alto-adige",
+  "regionName": "Trentino-Alto Adige",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "copertura insufficiente - pubblicazione futura",
+  "h1": "Scuole a Trento: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Trento: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Trento per tipologia e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": {"lat": 46.07, "lng": 11.12},
+  "schoolTypeStats": [
+    {"slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1}
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

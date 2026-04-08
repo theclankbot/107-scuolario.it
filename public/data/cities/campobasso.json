@@ -1,0 +1,24 @@
+{
+  "slug": "campobasso",
+  "name": "Campobasso",
+  "provinceSlug": "campobasso",
+  "provinceName": "Campobasso",
+  "regionSlug": "molise",
+  "regionName": "Molise",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "copertura insufficiente - pubblicazione futura",
+  "h1": "Scuole a Campobasso: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Campobasso: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Campobasso per tipologia e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": {"lat": 41.56, "lng": 14.66},
+  "schoolTypeStats": [
+    {"slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1}
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

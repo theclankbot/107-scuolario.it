@@ -1,0 +1,20 @@
+{
+  "slug": "perugia",
+  "name": "Perugia",
+  "displayName": "Provincia di Perugia",
+  "sigla": "PG",
+  "regionSlug": "umbria",
+  "publishedAt": null,
+  "h1": "Scuole in provincia di Perugia: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Perugia | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Perugia per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 150,
+  "publishedCityCount": 0,
+  "featuredCitySlugs": [],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 34 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 12 }
+  ],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

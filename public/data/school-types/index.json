@@ -1,0 +1,14 @@
+[
+  {"slug": "scuola-dell-infanzia", "label": "Scuola dell'infanzia", "schoolLevelGroup": "infanzia", "schoolCount": 13500},
+  {"slug": "scuola-primaria", "label": "Scuola primaria", "schoolLevelGroup": "primaria", "schoolCount": 15200},
+  {"slug": "scuola-secondaria-di-primo-grado", "label": "Scuola secondaria di primo grado", "schoolLevelGroup": "secondaria-primo-grado", "schoolCount": 7800},
+  {"slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolLevelGroup": "secondaria-secondo-grado", "schoolCount": 2400},
+  {"slug": "liceo-classico", "label": "Liceo classico", "schoolLevelGroup": "secondaria-secondo-grado", "schoolCount": 1200},
+  {"slug": "liceo-linguistico", "label": "Liceo linguistico", "schoolLevelGroup": "secondaria-secondo-grado", "schoolCount": 1100},
+  {"slug": "liceo-scienze-umane", "label": "Liceo delle scienze umane", "schoolLevelGroup": "secondaria-secondo-grado", "schoolCount": 950},
+  {"slug": "liceo-artistico", "label": "Liceo artistico", "schoolLevelGroup": "secondaria-secondo-grado", "schoolCount": 600},
+  {"slug": "istituto-tecnico", "label": "Istituto tecnico", "schoolLevelGroup": "secondaria-secondo-grado", "schoolCount": 3200},
+  {"slug": "istituto-professionale", "label": "Istituto professionale", "schoolLevelGroup": "secondaria-secondo-grado", "schoolCount": 2100},
+  {"slug": "istituto-comprensivo", "label": "Istituto comprensivo", "schoolLevelGroup": "comprensivo", "schoolCount": 8400},
+  {"slug": "istituto-superiore", "label": "Istituto di istruzione superiore", "schoolLevelGroup": "secondaria-secondo-grado", "schoolCount": 2800}
+]

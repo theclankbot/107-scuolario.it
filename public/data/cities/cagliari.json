@@ -1,0 +1,24 @@
+{
+  "slug": "cagliari",
+  "name": "Cagliari",
+  "provinceSlug": "cagliari",
+  "provinceName": "Cagliari",
+  "regionSlug": "sardegna",
+  "regionName": "Sardegna",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "copertura insufficiente - pubblicazione futura",
+  "h1": "Scuole a Cagliari: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Cagliari: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Cagliari per tipologia e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": {"lat": 39.22, "lng": 9.12},
+  "schoolTypeStats": [
+    {"slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1}
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

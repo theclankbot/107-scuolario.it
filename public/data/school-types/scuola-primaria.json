@@ -1,0 +1,14 @@
+{
+  "slug": "scuola-primaria",
+  "label": "Scuola primaria",
+  "schoolLevelGroup": "primaria",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole primarie in Italia: cerca per città e provincia",
+  "metaTitle": "Scuole primarie in Italia | Città, province e scuole",
+  "metaDescription": "Scopri scuole primarie in Italia per città e provincia con dati ufficiali, contatti e pagine istituto.",
+  "intro": "La scuola primaria, nota anche come scuola elementare, copre il ciclo dai 6 agli 11 anni ed è obbligatoria. Fornisce le competenze fondamentali di lettura, scrittura, matematica e le basi delle discipline scientifiche e umanistiche.",
+  "schoolCount": 15200,
+  "featuredRegionSlugs": ["lombardia", "campania", "lazio"],
+  "featuredCitySlugs": ["roma", "milano", "napoli"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

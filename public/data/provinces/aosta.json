@@ -1,0 +1,20 @@
+{
+  "slug": "aosta",
+  "name": "Aosta",
+  "displayName": "Provincia di Aosta",
+  "sigla": "AO",
+  "regionSlug": "valle-d-aosta",
+  "publishedAt": null,
+  "h1": "Scuole in provincia di Aosta: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Aosta | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Aosta per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 40,
+  "publishedCityCount": 0,
+  "featuredCitySlugs": [],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 9 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 3 }
+  ],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

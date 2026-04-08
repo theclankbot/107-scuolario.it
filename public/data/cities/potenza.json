@@ -1,0 +1,24 @@
+{
+  "slug": "potenza",
+  "name": "Potenza",
+  "provinceSlug": "potenza",
+  "provinceName": "Potenza",
+  "regionSlug": "basilicata",
+  "regionName": "Basilicata",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "copertura insufficiente - pubblicazione futura",
+  "h1": "Scuole a Potenza: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Potenza: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Potenza per tipologia e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": {"lat": 40.64, "lng": 15.80},
+  "schoolTypeStats": [
+    {"slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1}
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "campania",
+  "name": "Campania",
+  "code": "15",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in Campania: cerca per provincia, comune e tipologia",
+  "metaTitle": "Scuole in Campania: province, comuni e tipologie | Scuolario",
+  "metaDescription": "Trova scuole in Campania per provincia, comune e tipologia con dati ufficiali e pagine più facili da consultare.",
+  "provinceCount": 5,
+  "publishedProvinceCount": 5,
+  "publishedCityCount": 8,
+  "publishedSchoolCount": 280,
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 75 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 50 }
+  ],
+  "featuredProvinceSlugs": ["napoli"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro", "https://dati.istruzione.it/opendata/"]
+}

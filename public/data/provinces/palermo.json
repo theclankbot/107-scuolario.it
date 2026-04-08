@@ -1,0 +1,20 @@
+{
+  "slug": "palermo",
+  "name": "Palermo",
+  "displayName": "Provincia di Palermo",
+  "sigla": "PA",
+  "regionSlug": "sicilia",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in provincia di Palermo: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Palermo | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Palermo per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 450,
+  "publishedCityCount": 1,
+  "featuredCitySlugs": ["palermo"],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 100 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 38 }
+  ],
+  "comparePresetSlugs": ["palermo-licei-scientifici", "palermo-licei-classici"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

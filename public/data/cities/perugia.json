@@ -1,0 +1,24 @@
+{
+  "slug": "perugia",
+  "name": "Perugia",
+  "provinceSlug": "perugia",
+  "provinceName": "Perugia",
+  "regionSlug": "umbria",
+  "regionName": "Umbria",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "copertura insufficiente - pubblicazione futura",
+  "h1": "Scuole a Perugia: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Perugia: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Perugia per tipologia e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": {"lat": 43.11, "lng": 12.39},
+  "schoolTypeStats": [
+    {"slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1}
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

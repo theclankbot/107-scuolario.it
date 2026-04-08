@@ -1,0 +1,29 @@
+{
+  "slug": "codice-meccanografico-scuole",
+  "title": "Cos'è il codice meccanografico di una scuola e come usarlo",
+  "targetKeyword": "codice meccanografico scuole",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Cos'è il codice meccanografico di una scuola e come usarlo",
+  "metaTitle": "Codice meccanografico scuole: cos'è e come trovarlo | Scuolario",
+  "metaDescription": "Scopri cos'è il codice meccanografico di una scuola, come è composto, dove trovarlo e a cosa serve per iscrizioni e ricerche su Scuola in Chiaro.",
+  "intro": "Il codice meccanografico è un codice alfanumerico univoco assegnato dal Ministero dell'Istruzione e del Merito a ogni istituto scolastico italiano. È essenziale per le iscrizioni online e per identificare con precisione una scuola.",
+  "sections": [
+    {
+      "heading": "Come è composto il codice meccanografico",
+      "body": "Il codice meccanografico è formato da 10 caratteri. Le prime due lettere indicano la provincia (ad esempio RM per Roma, MI per Milano). Le lettere successive identificano il tipo di scuola e un numero progressivo. Per esempio, RMPS26000V identifica un liceo scientifico nella provincia di Roma."
+    },
+    {
+      "heading": "Dove trovare il codice meccanografico",
+      "body": "Puoi trovare il codice meccanografico sul sito web della scuola, nei documenti ufficiali dell'istituto, oppure cercandolo su Scuola in Chiaro o su Scuolario. Viene anche comunicato durante le procedure di iscrizione online tramite il portale del Ministero."
+    },
+    {
+      "heading": "A cosa serve il codice meccanografico",
+      "body": "Il codice meccanografico serve principalmente per le iscrizioni scolastiche online, dove va inserito per identificare la scuola prescelta. Viene inoltre utilizzato per le comunicazioni ufficiali tra scuole e ministero, e per le ricerche su portali come Scuola in Chiaro e Scuolario."
+    },
+    {
+      "heading": "Differenza tra codice di istituto e codice di plesso",
+      "body": "Ogni istituto scolastico ha un codice meccanografico principale. Quando un istituto ha più sedi o plessi, ciascuno riceve un codice secondario. Su Scuolario trovi il codice dell'istituto principale, che è quello necessario per le iscrizioni."
+    }
+  ],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

@@ -1,0 +1,9 @@
+[
+  {"slug": "roma-licei-scientifici", "title": "Confronta licei scientifici a Roma", "citySlug": "roma", "schoolTypeSlug": "liceo-scientifico", "schoolCount": 6},
+  {"slug": "roma-licei-classici", "title": "Confronta licei classici a Roma", "citySlug": "roma", "schoolTypeSlug": "liceo-classico", "schoolCount": 3},
+  {"slug": "roma-istituti-comprensivi", "title": "Confronta istituti comprensivi a Roma", "citySlug": "roma", "schoolTypeSlug": "istituto-comprensivo", "schoolCount": 2},
+  {"slug": "milano-licei-scientifici", "title": "Confronta licei scientifici a Milano", "citySlug": "milano", "schoolTypeSlug": "liceo-scientifico", "schoolCount": 3},
+  {"slug": "milano-licei-classici", "title": "Confronta licei classici a Milano", "citySlug": "milano", "schoolTypeSlug": "liceo-classico", "schoolCount": 2},
+  {"slug": "napoli-licei-scientifici", "title": "Confronta licei scientifici a Napoli", "citySlug": "napoli", "schoolTypeSlug": "liceo-scientifico", "schoolCount": 2},
+  {"slug": "torino-licei-scientifici", "title": "Confronta licei scientifici a Torino", "citySlug": "torino", "schoolTypeSlug": "liceo-scientifico", "schoolCount": 2}
+]

@@ -1,0 +1,20 @@
+{
+  "slug": "l-aquila",
+  "name": "L'Aquila",
+  "displayName": "Provincia dell'Aquila",
+  "sigla": "AQ",
+  "regionSlug": "abruzzo",
+  "publishedAt": null,
+  "h1": "Scuole in provincia dell'Aquila: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia dell'Aquila | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia dell'Aquila per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 70,
+  "publishedCityCount": 0,
+  "featuredCitySlugs": [],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 16 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 5 }
+  ],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

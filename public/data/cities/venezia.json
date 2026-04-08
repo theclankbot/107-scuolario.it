@@ -1,0 +1,24 @@
+{
+  "slug": "venezia",
+  "name": "Venezia",
+  "provinceSlug": "venezia",
+  "provinceName": "Venezia",
+  "regionSlug": "veneto",
+  "regionName": "Veneto",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "schoolCount<3",
+  "h1": "Scuole a Venezia: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Venezia: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Venezia per tipologia, quartiere e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": { "lat": 45.4408, "lng": 12.3155 },
+  "schoolTypeStats": [
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1 }
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "ancona",
+    "name": "Ancona",
+    "sigla": "AN",
+    "regionSlug": "marche",
+    "publishedAt": null,
+    "schoolCount": 140,
+    "publishedCityCount": 0
+  },
+  {
+    "slug": "aosta",
+    "name": "Aosta",
+    "sigla": "AO",
+    "regionSlug": "valle-d-aosta",
+    "publishedAt": null,
+    "schoolCount": 40,
+    "publishedCityCount": 0
+  },
+  {
+    "slug": "bari",
+    "name": "Bari",
+    "sigla": "BA",
+    "regionSlug": "puglia",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 380,
+    "publishedCityCount": 1
+  },
+  {
+    "slug": "bologna",
+    "name": "Bologna",
+    "sigla": "BO",
+    "regionSlug": "emilia-romagna",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 420,
+    "publishedCityCount": 1
+  },
+  {
+    "slug": "brescia",
+    "name": "Brescia",
+    "sigla": "BS",
+    "regionSlug": "lombardia",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 350,
+    "publishedCityCount": 1
+  },
+  {
+    "slug": "cagliari",
+    "name": "Cagliari",
+    "sigla": "CA",
+    "regionSlug": "sardegna",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 180,
+    "publishedCityCount": 1
+  },
+  {
+    "slug": "campobasso",
+    "name": "Campobasso",
+    "sigla": "CB",
+    "regionSlug": "molise",
+    "publishedAt": null,
+    "schoolCount": 50,
+    "publishedCityCount": 0
+  },
+  {
+    "slug": "catania",
+    "name": "Catania",
+    "sigla": "CT",
+    "regionSlug": "sicilia",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 350,
+    "publishedCityCount": 1
+  },
+  {
+    "slug": "catanzaro",
+    "name": "Catanzaro",
+    "sigla": "CZ",
+    "regionSlug": "calabria",
+    "publishedAt": null,
+    "schoolCount": 90,
+    "publishedCityCount": 0
+  },
+  {
+    "slug": "firenze",
+    "name": "Firenze",
+    "sigla": "FI",
+    "regionSlug": "toscana",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 380,
+    "publishedCityCount": 1
+  },
+  {
+    "slug": "genova",
+    "name": "Genova",
+    "sigla": "GE",
+    "regionSlug": "liguria",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 300,
+    "publishedCityCount": 1
+  },
+  {
+    "slug": "l-aquila",
+    "name": "L'Aquila",
+    "sigla": "AQ",
+    "regionSlug": "abruzzo",
+    "publishedAt": null,
+    "schoolCount": 70,
+    "publishedCityCount": 0
+  },
+  {
+    "slug": "milano",
+    "name": "Milano",
+    "sigla": "MI",
+    "regionSlug": "lombardia",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 1200,
+    "publishedCityCount": 2
+  },
+  {
+    "slug": "napoli",
+    "name": "Napoli",
+    "sigla": "NA",
+    "regionSlug": "campania",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 980,
+    "publishedCityCount": 2
+  },
+  {
+    "slug": "padova",
+    "name": "Padova",
+    "sigla": "PD",
+    "regionSlug": "veneto",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 280,
+    "publishedCityCount": 1
+  },
+  {
+    "slug": "palermo",
+    "name": "Palermo",
+    "sigla": "PA",
+    "regionSlug": "sicilia",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 450,
+    "publishedCityCount": 1
+  },
+  {
+    "slug": "perugia",
+    "name": "Perugia",
+    "sigla": "PG",
+    "regionSlug": "umbria",
+    "publishedAt": null,
+    "schoolCount": 150,
+    "publishedCityCount": 0
+  },
+  {
+    "slug": "potenza",
+    "name": "Potenza",
+    "sigla": "PZ",
+    "regionSlug": "basilicata",
+    "publishedAt": null,
+    "schoolCount": 60,
+    "publishedCityCount": 0
+  },
+  {
+    "slug": "roma",
+    "name": "Roma",
+    "sigla": "RM",
+    "regionSlug": "lazio",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 1680,
+    "publishedCityCount": 3
+  },
+  {
+    "slug": "torino",
+    "name": "Torino",
+    "sigla": "TO",
+    "regionSlug": "piemonte",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 750,
+    "publishedCityCount": 2
+  },
+  {
+    "slug": "trento",
+    "name": "Trento",
+    "sigla": "TN",
+    "regionSlug": "trentino-alto-adige",
+    "publishedAt": null,
+    "schoolCount": 100,
+    "publishedCityCount": 0
+  },
+  {
+    "slug": "trieste",
+    "name": "Trieste",
+    "sigla": "TS",
+    "regionSlug": "friuli-venezia-giulia",
+    "publishedAt": null,
+    "schoolCount": 80,
+    "publishedCityCount": 0
+  },
+  {
+    "slug": "venezia",
+    "name": "Venezia",
+    "sigla": "VE",
+    "regionSlug": "veneto",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 280,
+    "publishedCityCount": 1
+  },
+  {
+    "slug": "verona",
+    "name": "Verona",
+    "sigla": "VR",
+    "regionSlug": "veneto",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 310,
+    "publishedCityCount": 1
+  }
+]

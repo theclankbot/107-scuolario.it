@@ -1,0 +1,9 @@
+{
+  "slug": "data-sources",
+  "title": "Fonti dati e metodologia",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Fonti dati e metodologia",
+  "metaTitle": "Fonti dati e metodologia | Scuolario",
+  "metaDescription": "Elenco completo delle fonti dati utilizzate da Scuolario e spiegazione della metodologia di raccolta e pubblicazione.",
+  "body": "Fonti ufficiali primarie:\n\n1. Scuola in Chiaro / MIM\nhttps://unica.istruzione.gov.it/portale/it/scuola-in-chiaro\nFonte principale per i dati anagrafici, i contatti, i servizi e i documenti di ogni istituto scolastico.\n\n2. Portale Unica - Ministero dell'Istruzione e del Merito\nhttps://www.mim.gov.it/-/scuola-in-chiaro\nPagina istituzionale di riferimento per Scuola in Chiaro.\n\n3. Open Data Istruzione\nhttps://dati.istruzione.it/opendata/\nPortale dei dati aperti del Ministero dell'Istruzione.\n\n4. Pagine ufficiali delle scuole\nhttps://unica.istruzione.gov.it/cercalatuascuola/istituti/...\nPagine dettagliate di ogni istituto con dati su didattica, servizi, finanza, PTOF, RAV e altro.\n\nFonti di scoperta supplementari:\nPer l'enumerazione iniziale delle scuole e dei comuni, sono stati utilizzati anche:\n- tuttitalia.it/scuole/ (struttura geografica e elenchi)\n- cercascuole.it (elenchi per città)\n\nQueste fonti sono state usate SOLO per la scoperta dei candidati. Tutti i dati pubblicati sulle schede scuola provengono dalle fonti ufficiali.\n\nPolitica sui dati mancanti:\nQuando un'informazione non è disponibile nella fonte ufficiale, Scuolario mostra 'Dato non disponibile' anziché inventare un valore predefinito.\n\nLogica di pubblicazione:\nOgni entità (scuola, comune, confronto) ha un campo publishedAt che controlla la visibilità pubblica. Le entità non ancora pubblicate non sono accessibili e mostrano uno stato 'Prossimamente' negli elenchi."
+}

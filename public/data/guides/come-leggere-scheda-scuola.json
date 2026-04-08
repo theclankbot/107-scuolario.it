@@ -1,0 +1,33 @@
+{
+  "slug": "come-leggere-scheda-scuola",
+  "title": "Come leggere la scheda di una scuola su Scuolario",
+  "targetKeyword": "scuola in chiaro",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Come leggere la scheda di una scuola su Scuolario",
+  "metaTitle": "Come leggere la scheda di una scuola | Scuolario",
+  "metaDescription": "Guida pratica per interpretare la scheda di una scuola su Scuolario: contatti, documenti ufficiali, servizi e fonti MIM spiegate in modo chiaro.",
+  "intro": "Ogni scheda scuola su Scuolario raccoglie informazioni ufficiali provenienti dal portale Scuola in Chiaro del Ministero dell'Istruzione e del Merito. Ecco come leggere e interpretare ogni sezione.",
+  "sections": [
+    {
+      "heading": "Dati identificativi e codice meccanografico",
+      "body": "In cima alla scheda trovi il nome ufficiale della scuola, il codice meccanografico (un identificativo univoco assegnato dal MIM) e la tipologia di istituto. Questi dati permettono di identificare con certezza la scuola e distinguerla da sedi o plessi con nomi simili."
+    },
+    {
+      "heading": "Contatti e indirizzo",
+      "body": "La sezione contatti include indirizzo completo, numero di telefono, email istituzionale e PEC. L'indirizzo PEC (Posta Elettronica Certificata) ha valore legale e viene usato per comunicazioni ufficiali con la scuola. Se presente, trovi anche il link al sito web dell'istituto."
+    },
+    {
+      "heading": "Documenti ufficiali: PTOF e RAV",
+      "body": "Il PTOF (Piano Triennale dell'Offerta Formativa) descrive il progetto educativo della scuola, inclusi programmi, attivita extracurricolari e obiettivi formativi. Il RAV (Rapporto di Autovalutazione) e un documento di autovalutazione che evidenzia punti di forza e aree di miglioramento. Entrambi sono pubblici e consultabili."
+    },
+    {
+      "heading": "Servizi e didattica",
+      "body": "Quando disponibili, le informazioni su servizi e didattica indicano quali risorse offre la scuola: laboratori, mense, trasporto, attivita pomeridiane. Questi dati provengono direttamente dalle dichiarazioni dell'istituto sul portale Scuola in Chiaro."
+    },
+    {
+      "heading": "Fonti e aggiornamento dei dati",
+      "body": "In fondo a ogni scheda trovi i link diretti alle fonti ufficiali sul portale Scuola in Chiaro. Scuolario non inventa dati ne crea classifiche: tutte le informazioni sono verificabili e tracciabili. La data dell'ultimo controllo e indicata nella scheda."
+    }
+  ],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

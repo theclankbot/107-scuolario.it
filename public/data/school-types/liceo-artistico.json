@@ -1,0 +1,14 @@
+{
+  "slug": "liceo-artistico",
+  "label": "Liceo artistico",
+  "schoolLevelGroup": "secondaria-secondo-grado",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Licei artistici in Italia: cerca per città e provincia",
+  "metaTitle": "Licei artistici in Italia | Città, province e scuole",
+  "metaDescription": "Scopri licei artistici in Italia per città e provincia con dati ufficiali, contatti e pagine istituto.",
+  "intro": "Il liceo artistico sviluppa le competenze creative e progettuali degli studenti attraverso lo studio delle arti visive, dell'architettura e del design. Offre diversi indirizzi tra cui arti figurative, grafica, scenografia e audiovisivo multimediale.",
+  "schoolCount": 600,
+  "featuredRegionSlugs": ["lazio", "lombardia", "toscana"],
+  "featuredCitySlugs": ["roma", "milano", "firenze"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

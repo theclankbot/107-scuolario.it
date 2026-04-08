@@ -1,0 +1,41 @@
+{
+  "slug": "milano",
+  "name": "Milano",
+  "provinceSlug": "milano",
+  "provinceName": "Milano",
+  "regionSlug": "lombardia",
+  "regionName": "Lombardia",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "isPublishable": true,
+  "publishabilityReason": "schoolCount>=3 and multiple school types",
+  "h1": "Scuole a Milano: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Milano: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Milano per tipologia, quartiere e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 10,
+  "schoolTypeCount": 7,
+  "hasMap": true,
+  "center": { "lat": 45.4642, "lng": 9.19 },
+  "schoolTypeStats": [
+    { "slug": "liceo-classico", "label": "Liceo classico", "schoolCount": 2 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 2 },
+    { "slug": "istituto-comprensivo", "label": "Istituto comprensivo", "schoolCount": 1 },
+    { "slug": "istituto-tecnico", "label": "Istituto tecnico", "schoolCount": 1 },
+    { "slug": "liceo-scienze-umane", "label": "Liceo delle scienze umane", "schoolCount": 1 },
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 1 },
+    { "slug": "istituto-professionale", "label": "Istituto professionale", "schoolCount": 1 }
+  ],
+  "featuredSchoolCodes": [
+    "MIPC03000N",
+    "MIPS01000B",
+    "MIIC8FY00X",
+    "MIPC010004",
+    "MIPS11000C",
+    "MITF19000B",
+    "MIPM050003",
+    "MIPS020002",
+    "MIEE044005",
+    "MIRC03000T"
+  ],
+  "comparePresetSlugs": ["milano-licei-scientifici", "milano-licei-classici"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

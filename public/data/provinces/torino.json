@@ -1,0 +1,20 @@
+{
+  "slug": "torino",
+  "name": "Torino",
+  "displayName": "Provincia di Torino",
+  "sigla": "TO",
+  "regionSlug": "piemonte",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in provincia di Torino: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Torino | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Torino per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 750,
+  "publishedCityCount": 2,
+  "featuredCitySlugs": ["torino"],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 170 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 60 }
+  ],
+  "comparePresetSlugs": ["torino-licei-scientifici", "torino-licei-classici"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

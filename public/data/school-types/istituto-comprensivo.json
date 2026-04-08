@@ -1,0 +1,14 @@
+{
+  "slug": "istituto-comprensivo",
+  "label": "Istituto comprensivo",
+  "schoolLevelGroup": "comprensivo",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Istituti comprensivi in Italia: cerca per città e provincia",
+  "metaTitle": "Istituti comprensivi in Italia | Città, province e scuole",
+  "metaDescription": "Scopri istituti comprensivi in Italia per città e provincia con dati ufficiali, contatti e pagine istituto.",
+  "intro": "L'istituto comprensivo riunisce sotto un'unica direzione scuola dell'infanzia, scuola primaria e scuola secondaria di primo grado, garantendo continuità didattica e organizzativa nel percorso formativo dai 3 ai 14 anni.",
+  "schoolCount": 8400,
+  "featuredRegionSlugs": ["lombardia", "lazio", "campania"],
+  "featuredCitySlugs": ["roma", "milano", "napoli"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

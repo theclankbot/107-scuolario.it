@@ -1,0 +1,20 @@
+{
+  "slug": "catanzaro",
+  "name": "Catanzaro",
+  "displayName": "Provincia di Catanzaro",
+  "sigla": "CZ",
+  "regionSlug": "calabria",
+  "publishedAt": null,
+  "h1": "Scuole in provincia di Catanzaro: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Catanzaro | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Catanzaro per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 90,
+  "publishedCityCount": 0,
+  "featuredCitySlugs": [],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 20 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 7 }
+  ],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "verona",
+  "name": "Verona",
+  "displayName": "Provincia di Verona",
+  "sigla": "VR",
+  "regionSlug": "veneto",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in provincia di Verona: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Verona | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Verona per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 310,
+  "publishedCityCount": 1,
+  "featuredCitySlugs": ["verona"],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 70 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 25 }
+  ],
+  "comparePresetSlugs": ["verona-licei-scientifici", "verona-licei-classici"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

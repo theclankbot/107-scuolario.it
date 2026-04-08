@@ -1,0 +1,14 @@
+{
+  "slug": "istituto-tecnico",
+  "label": "Istituto tecnico",
+  "schoolLevelGroup": "secondaria-secondo-grado",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Istituti tecnici in Italia: cerca per città e provincia",
+  "metaTitle": "Istituti tecnici in Italia | Città, province e scuole",
+  "metaDescription": "Scopri istituti tecnici in Italia per città e provincia con dati ufficiali, contatti e pagine istituto.",
+  "intro": "L'istituto tecnico fornisce competenze specifiche nei settori economico e tecnologico, combinando formazione culturale e preparazione professionale. Gli indirizzi spaziano da informatica e telecomunicazioni a turismo, amministrazione e meccanica.",
+  "schoolCount": 3200,
+  "featuredRegionSlugs": ["lombardia", "lazio", "campania"],
+  "featuredCitySlugs": ["roma", "milano", "napoli"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

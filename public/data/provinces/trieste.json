@@ -1,0 +1,20 @@
+{
+  "slug": "trieste",
+  "name": "Trieste",
+  "displayName": "Provincia di Trieste",
+  "sigla": "TS",
+  "regionSlug": "friuli-venezia-giulia",
+  "publishedAt": null,
+  "h1": "Scuole in provincia di Trieste: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Trieste | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Trieste per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 80,
+  "publishedCityCount": 0,
+  "featuredCitySlugs": [],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 18 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 6 }
+  ],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

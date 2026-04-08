@@ -1,0 +1,19 @@
+{
+  "slug": "puglia",
+  "name": "Puglia",
+  "code": "16",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in Puglia: cerca per provincia, comune e tipologia",
+  "metaTitle": "Scuole in Puglia: province, comuni e tipologie | Scuolario",
+  "metaDescription": "Trova scuole in Puglia per provincia, comune e tipologia con dati ufficiali e pagine più facili da consultare.",
+  "provinceCount": 6,
+  "publishedProvinceCount": 6,
+  "publishedCityCount": 6,
+  "publishedSchoolCount": 150,
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 40 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 28 }
+  ],
+  "featuredProvinceSlugs": ["bari", "taranto"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro", "https://dati.istruzione.it/opendata/"]
+}

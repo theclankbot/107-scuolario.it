@@ -1,0 +1,14 @@
+{
+  "slug": "liceo-linguistico",
+  "label": "Liceo linguistico",
+  "schoolLevelGroup": "secondaria-secondo-grado",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Licei linguistici in Italia: cerca per città e provincia",
+  "metaTitle": "Licei linguistici in Italia | Città, province e scuole",
+  "metaDescription": "Scopri licei linguistici in Italia per città e provincia con dati ufficiali, contatti e pagine istituto.",
+  "intro": "Il liceo linguistico si concentra sullo studio approfondito di tre lingue straniere moderne, offrendo una preparazione culturale ampia con particolare attenzione alla comunicazione interculturale e alle competenze linguistiche avanzate.",
+  "schoolCount": 1100,
+  "featuredRegionSlugs": ["lombardia", "lazio", "veneto"],
+  "featuredCitySlugs": ["roma", "milano", "torino"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

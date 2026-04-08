@@ -1,0 +1,31 @@
+{
+  "slug": "torino",
+  "name": "Torino",
+  "provinceSlug": "torino",
+  "provinceName": "Torino",
+  "regionSlug": "piemonte",
+  "regionName": "Piemonte",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "isPublishable": true,
+  "publishabilityReason": "schoolCount>=3 and multiple school types",
+  "h1": "Scuole a Torino: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Torino: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Torino per tipologia, quartiere e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 4,
+  "schoolTypeCount": 3,
+  "hasMap": true,
+  "center": { "lat": 45.0703, "lng": 7.6869 },
+  "schoolTypeStats": [
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 2 },
+    { "slug": "liceo-classico", "label": "Liceo classico", "schoolCount": 1 },
+    { "slug": "istituto-comprensivo", "label": "Istituto comprensivo", "schoolCount": 1 }
+  ],
+  "featuredSchoolCodes": [
+    "TOPS020006",
+    "TOPC010003",
+    "TOIC8A100T",
+    "TOPS10000T"
+  ],
+  "comparePresetSlugs": ["torino-licei-scientifici"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

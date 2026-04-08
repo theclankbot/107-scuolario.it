@@ -1,0 +1,25 @@
+{
+  "slug": "fiumicino",
+  "name": "Fiumicino",
+  "provinceSlug": "roma",
+  "provinceName": "Roma",
+  "regionSlug": "lazio",
+  "regionName": "Lazio",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "isPublishable": true,
+  "publishabilityReason": "schoolCount>=3 and multiple school types",
+  "h1": "Scuole a Fiumicino: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Fiumicino: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Fiumicino per tipologia e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 3,
+  "schoolTypeCount": 2,
+  "hasMap": true,
+  "center": { "lat": 41.7668, "lng": 12.2355 },
+  "schoolTypeStats": [
+    { "slug": "istituto-comprensivo", "label": "Istituto comprensivo", "schoolCount": 2 },
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 1 }
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

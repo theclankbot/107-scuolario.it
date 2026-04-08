@@ -1,0 +1,33 @@
+{
+  "slug": "napoli",
+  "name": "Napoli",
+  "provinceSlug": "napoli",
+  "provinceName": "Napoli",
+  "regionSlug": "campania",
+  "regionName": "Campania",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "isPublishable": true,
+  "publishabilityReason": "schoolCount>=3 and multiple school types",
+  "h1": "Scuole a Napoli: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Napoli: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Napoli per tipologia, quartiere e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 5,
+  "schoolTypeCount": 4,
+  "hasMap": true,
+  "center": { "lat": 40.8518, "lng": 14.2681 },
+  "schoolTypeStats": [
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 2 },
+    { "slug": "liceo-classico", "label": "Liceo classico", "schoolCount": 1 },
+    { "slug": "istituto-comprensivo", "label": "Istituto comprensivo", "schoolCount": 1 },
+    { "slug": "istituto-tecnico", "label": "Istituto tecnico", "schoolCount": 1 }
+  ],
+  "featuredSchoolCodes": [
+    "NAPS060007",
+    "NAPC01000Q",
+    "NAIC8BV00X",
+    "NAPS11000Q",
+    "NATF06000E"
+  ],
+  "comparePresetSlugs": ["napoli-licei-scientifici"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

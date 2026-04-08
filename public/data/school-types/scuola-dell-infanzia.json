@@ -1,0 +1,14 @@
+{
+  "slug": "scuola-dell-infanzia",
+  "label": "Scuola dell'infanzia",
+  "schoolLevelGroup": "infanzia",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole dell'infanzia in Italia: cerca per città e provincia",
+  "metaTitle": "Scuole dell'infanzia in Italia | Città, province e scuole",
+  "metaDescription": "Scopri scuole dell'infanzia in Italia per città e provincia con dati ufficiali, contatti e pagine istituto.",
+  "intro": "La scuola dell'infanzia accoglie bambini dai 3 ai 6 anni ed è il primo passo nel percorso educativo italiano. Attraverso il gioco, le attività espressive e la socializzazione, prepara i bambini all'ingresso nella scuola primaria.",
+  "schoolCount": 13500,
+  "featuredRegionSlugs": ["lombardia", "campania", "lazio"],
+  "featuredCitySlugs": ["roma", "milano", "napoli"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "come-trovare-scuola-per-citta",
+  "title": "Come trovare una scuola per città, provincia e tipologia",
+  "targetKeyword": "trovare scuola",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Come trovare una scuola per città, provincia e tipologia",
+  "metaTitle": "Come trovare una scuola per città e tipologia | Scuolario",
+  "metaDescription": "Guida passo passo per trovare una scuola su Scuolario cercando per citta, provincia, regione o tipologia di istituto.",
+  "intro": "Scuolario organizza le scuole italiane per regione, provincia, citta e tipologia. Questa guida ti spiega come navigare il sito per trovare rapidamente l'istituto che cerchi.",
+  "sections": [
+    {
+      "heading": "Cercare per citta",
+      "body": "Se sai in quale citta cerchi la scuola, vai direttamente alla pagina della citta. Troverai l'elenco di tutte le scuole presenti nel nostro database per quella localita, suddivise per tipologia. Per le citta principali sono disponibili anche pagine di confronto preimpostate."
+    },
+    {
+      "heading": "Cercare per provincia o regione",
+      "body": "Se non hai ancora deciso la citta esatta, puoi partire dalla regione o dalla provincia. La pagina della provincia mostra i comuni con scuole censite e i principali tipi di istituto presenti nel territorio. La pagina della regione offre una panoramica ancora piu ampia."
+    },
+    {
+      "heading": "Filtrare per tipologia di scuola",
+      "body": "Se cerchi un tipo specifico di scuola (ad esempio un liceo scientifico o un istituto tecnico), puoi usare le pagine dedicate alle tipologie scolastiche. Da li puoi poi restringere la ricerca per localita e trovare gli istituti del tipo desiderato nella tua zona."
+    },
+    {
+      "heading": "Cercare con il codice meccanografico",
+      "body": "Se conosci gia il codice meccanografico della scuola, puoi cercarlo direttamente. Il codice meccanografico e un identificativo univoco che porta direttamente alla scheda dell'istituto con tutte le informazioni disponibili."
+    }
+  ],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

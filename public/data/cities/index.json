@@ -1,0 +1,210 @@
+[
+  {
+    "slug": "ancona",
+    "name": "Ancona",
+    "provinceSlug": "ancona",
+    "regionSlug": "marche",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "aosta",
+    "name": "Aosta",
+    "provinceSlug": "aosta",
+    "regionSlug": "valle-d-aosta",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "bari",
+    "name": "Bari",
+    "provinceSlug": "bari",
+    "regionSlug": "puglia",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "bologna",
+    "name": "Bologna",
+    "provinceSlug": "bologna",
+    "regionSlug": "emilia-romagna",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 2
+  },
+  {
+    "slug": "brescia",
+    "name": "Brescia",
+    "provinceSlug": "brescia",
+    "regionSlug": "lombardia",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "cagliari",
+    "name": "Cagliari",
+    "provinceSlug": "cagliari",
+    "regionSlug": "sardegna",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "campobasso",
+    "name": "Campobasso",
+    "provinceSlug": "campobasso",
+    "regionSlug": "molise",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "catania",
+    "name": "Catania",
+    "provinceSlug": "catania",
+    "regionSlug": "sicilia",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "catanzaro",
+    "name": "Catanzaro",
+    "provinceSlug": "catanzaro",
+    "regionSlug": "calabria",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "firenze",
+    "name": "Firenze",
+    "provinceSlug": "firenze",
+    "regionSlug": "toscana",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 2
+  },
+  {
+    "slug": "fiumicino",
+    "name": "Fiumicino",
+    "provinceSlug": "roma",
+    "regionSlug": "lazio",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 3
+  },
+  {
+    "slug": "genova",
+    "name": "Genova",
+    "provinceSlug": "genova",
+    "regionSlug": "liguria",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "guidonia-montecelio",
+    "name": "Guidonia Montecelio",
+    "provinceSlug": "roma",
+    "regionSlug": "lazio",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 3
+  },
+  {
+    "slug": "l-aquila",
+    "name": "L'Aquila",
+    "provinceSlug": "l-aquila",
+    "regionSlug": "abruzzo",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "milano",
+    "name": "Milano",
+    "provinceSlug": "milano",
+    "regionSlug": "lombardia",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 10
+  },
+  {
+    "slug": "napoli",
+    "name": "Napoli",
+    "provinceSlug": "napoli",
+    "regionSlug": "campania",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 5
+  },
+  {
+    "slug": "padova",
+    "name": "Padova",
+    "provinceSlug": "padova",
+    "regionSlug": "veneto",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "palermo",
+    "name": "Palermo",
+    "provinceSlug": "palermo",
+    "regionSlug": "sicilia",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 2
+  },
+  {
+    "slug": "perugia",
+    "name": "Perugia",
+    "provinceSlug": "perugia",
+    "regionSlug": "umbria",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "potenza",
+    "name": "Potenza",
+    "provinceSlug": "potenza",
+    "regionSlug": "basilicata",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "roma",
+    "name": "Roma",
+    "provinceSlug": "roma",
+    "regionSlug": "lazio",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 17
+  },
+  {
+    "slug": "torino",
+    "name": "Torino",
+    "provinceSlug": "torino",
+    "regionSlug": "piemonte",
+    "publishedAt": "2026-04-08T00:00:00.000Z",
+    "schoolCount": 4
+  },
+  {
+    "slug": "trento",
+    "name": "Trento",
+    "provinceSlug": "trento",
+    "regionSlug": "trentino-alto-adige",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "trieste",
+    "name": "Trieste",
+    "provinceSlug": "trieste",
+    "regionSlug": "friuli-venezia-giulia",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "venezia",
+    "name": "Venezia",
+    "provinceSlug": "venezia",
+    "regionSlug": "veneto",
+    "publishedAt": null,
+    "schoolCount": 1
+  },
+  {
+    "slug": "verona",
+    "name": "Verona",
+    "provinceSlug": "verona",
+    "regionSlug": "veneto",
+    "publishedAt": null,
+    "schoolCount": 1
+  }
+]

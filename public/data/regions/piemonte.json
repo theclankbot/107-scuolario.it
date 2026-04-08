@@ -1,0 +1,19 @@
+{
+  "slug": "piemonte",
+  "name": "Piemonte",
+  "code": "01",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in Piemonte: cerca per provincia, comune e tipologia",
+  "metaTitle": "Scuole in Piemonte: province, comuni e tipologie | Scuolario",
+  "metaDescription": "Trova scuole in Piemonte per provincia, comune e tipologia con dati ufficiali e pagine più facili da consultare.",
+  "provinceCount": 8,
+  "publishedProvinceCount": 3,
+  "publishedCityCount": 8,
+  "publishedSchoolCount": 180,
+  "topSchoolTypes": [
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 45 },
+    { "slug": "istituto-comprensivo", "label": "Istituto comprensivo", "schoolCount": 60 }
+  ],
+  "featuredProvinceSlugs": ["torino"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro", "https://dati.istruzione.it/opendata/"]
+}

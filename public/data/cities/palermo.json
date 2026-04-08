@@ -1,0 +1,25 @@
+{
+  "slug": "palermo",
+  "name": "Palermo",
+  "provinceSlug": "palermo",
+  "provinceName": "Palermo",
+  "regionSlug": "sicilia",
+  "regionName": "Sicilia",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "isPublishable": true,
+  "publishabilityReason": "capoluogo di regione con alta domanda",
+  "h1": "Scuole a Palermo: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Palermo: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Palermo per tipologia, quartiere e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 2,
+  "schoolTypeCount": 2,
+  "hasMap": true,
+  "center": { "lat": 38.1157, "lng": 13.3615 },
+  "schoolTypeStats": [
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1 },
+    { "slug": "liceo-classico", "label": "Liceo classico", "schoolCount": 1 }
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

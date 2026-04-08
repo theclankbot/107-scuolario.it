@@ -1,0 +1,14 @@
+{
+  "slug": "scuola-secondaria-di-primo-grado",
+  "label": "Scuola secondaria di primo grado",
+  "schoolLevelGroup": "secondaria-primo-grado",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole secondarie di primo grado in Italia: cerca per città e provincia",
+  "metaTitle": "Scuole secondarie di primo grado in Italia | Città, province e scuole",
+  "metaDescription": "Scopri scuole secondarie di primo grado in Italia per città e provincia con dati ufficiali, contatti e pagine istituto.",
+  "intro": "La scuola secondaria di primo grado, comunemente chiamata scuola media, copre il triennio dagli 11 ai 14 anni. Consolida le competenze acquisite nella primaria e orienta gli studenti verso la scelta della scuola superiore.",
+  "schoolCount": 7800,
+  "featuredRegionSlugs": ["lombardia", "campania", "lazio"],
+  "featuredCitySlugs": ["roma", "milano", "napoli"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "toscana",
+  "name": "Toscana",
+  "code": "09",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in Toscana: cerca per provincia, comune e tipologia",
+  "metaTitle": "Scuole in Toscana: province, comuni e tipologie | Scuolario",
+  "metaDescription": "Trova scuole in Toscana per provincia, comune e tipologia con dati ufficiali e pagine più facili da consultare.",
+  "provinceCount": 10,
+  "publishedProvinceCount": 10,
+  "publishedCityCount": 8,
+  "publishedSchoolCount": 160,
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 42 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 30 }
+  ],
+  "featuredProvinceSlugs": ["firenze", "prato", "livorno"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro", "https://dati.istruzione.it/opendata/"]
+}

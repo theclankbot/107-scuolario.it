@@ -1,0 +1,13 @@
+{
+  "siteName": "Scuolario",
+  "siteUrl": "https://scuolario.it",
+  "defaultLocale": "it-IT",
+  "tagline": "Trova scuole in Italia per città, provincia e tipologia",
+  "country": "IT",
+  "language": "it",
+  "launchState": "italy-only",
+  "lastDataRefreshAt": "2026-04-08",
+  "contactEmail": "ciao@scuolario.it",
+  "primarySourceLabel": "Scuola in Chiaro / MIM",
+  "primarySourceUrl": "https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"
+}

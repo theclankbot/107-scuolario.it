@@ -1,0 +1,14 @@
+{
+  "slug": "liceo-classico",
+  "label": "Liceo classico",
+  "schoolLevelGroup": "secondaria-secondo-grado",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Licei classici in Italia: cerca per città e provincia",
+  "metaTitle": "Licei classici in Italia | Città, province e scuole",
+  "metaDescription": "Scopri licei classici in Italia per città e provincia con dati ufficiali, contatti e pagine istituto.",
+  "intro": "Il liceo classico è il percorso più tradizionale della scuola superiore italiana, con forte enfasi su latino, greco antico, filosofia e letteratura. Forma competenze critiche e analitiche apprezzate in ambito universitario e professionale.",
+  "schoolCount": 1200,
+  "featuredRegionSlugs": ["lazio", "lombardia", "campania"],
+  "featuredCitySlugs": ["roma", "milano", "napoli"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

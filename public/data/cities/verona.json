@@ -1,0 +1,24 @@
+{
+  "slug": "verona",
+  "name": "Verona",
+  "provinceSlug": "verona",
+  "provinceName": "Verona",
+  "regionSlug": "veneto",
+  "regionName": "Veneto",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "schoolCount<3",
+  "h1": "Scuole a Verona: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Verona: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Verona per tipologia, quartiere e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": { "lat": 45.4384, "lng": 10.9917 },
+  "schoolTypeStats": [
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1 }
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

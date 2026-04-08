@@ -1,0 +1,24 @@
+{
+  "slug": "catanzaro",
+  "name": "Catanzaro",
+  "provinceSlug": "catanzaro",
+  "provinceName": "Catanzaro",
+  "regionSlug": "calabria",
+  "regionName": "Calabria",
+  "publishedAt": null,
+  "isPublishable": false,
+  "publishabilityReason": "copertura insufficiente - pubblicazione futura",
+  "h1": "Scuole a Catanzaro: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Catanzaro: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Catanzaro per tipologia e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 1,
+  "schoolTypeCount": 1,
+  "hasMap": false,
+  "center": {"lat": 38.89, "lng": 16.60},
+  "schoolTypeStats": [
+    {"slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1}
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

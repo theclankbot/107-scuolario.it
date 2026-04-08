@@ -1,0 +1,20 @@
+{
+  "slug": "bologna",
+  "name": "Bologna",
+  "displayName": "Provincia di Bologna",
+  "sigla": "BO",
+  "regionSlug": "emilia-romagna",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in provincia di Bologna: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Bologna | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Bologna per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 420,
+  "publishedCityCount": 1,
+  "featuredCitySlugs": ["bologna"],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 95 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 35 }
+  ],
+  "comparePresetSlugs": ["bologna-licei-scientifici", "bologna-licei-classici"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

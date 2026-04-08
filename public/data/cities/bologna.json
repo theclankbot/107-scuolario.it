@@ -1,0 +1,25 @@
+{
+  "slug": "bologna",
+  "name": "Bologna",
+  "provinceSlug": "bologna",
+  "provinceName": "Bologna",
+  "regionSlug": "emilia-romagna",
+  "regionName": "Emilia-Romagna",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "isPublishable": true,
+  "publishabilityReason": "capoluogo di regione con alta domanda di ricerca",
+  "h1": "Scuole a Bologna: contatti, tipologie e confronto istituti",
+  "metaTitle": "Scuole a Bologna: trova e confronta istituti | Scuolario",
+  "metaDescription": "Trova scuole a Bologna per tipologia, quartiere e dati ufficiali. Confronta istituti senza classifiche inventate.",
+  "schoolCount": 2,
+  "schoolTypeCount": 2,
+  "hasMap": true,
+  "center": { "lat": 44.4949, "lng": 11.3426 },
+  "schoolTypeStats": [
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 1 },
+    { "slug": "liceo-classico", "label": "Liceo classico", "schoolCount": 1 }
+  ],
+  "featuredSchoolCodes": [],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "ancona",
+  "name": "Ancona",
+  "displayName": "Provincia di Ancona",
+  "sigla": "AN",
+  "regionSlug": "marche",
+  "publishedAt": null,
+  "h1": "Scuole in provincia di Ancona: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Ancona | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Ancona per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 140,
+  "publishedCityCount": 0,
+  "featuredCitySlugs": [],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 32 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 11 }
+  ],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

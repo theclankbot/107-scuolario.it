@@ -1,0 +1,44 @@
+{
+  "project": "107-scuolario.it",
+  "checkedAt": "2026-04-08T15:45:00Z",
+  "summary": {
+    "officialLandingPage": "accessible via direct HTTP 200",
+    "officialSchoolDetailPages": "accessible via direct HTTP 200",
+    "officialDiscoveryJsonEndpoints": "blocked to direct curl with HTTP 403; require browser-driven access",
+    "builderDecision": "Treat official discovery as HARD browser-automation work. Use Playwright/browser context for enumeration, then enrich with official detail pages."
+  },
+  "checks": [
+    {
+      "url": "https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro",
+      "method": "HEAD",
+      "status": 200,
+      "classification": "simple",
+      "notes": "Official product/methodology page accessible in direct requests."
+    },
+    {
+      "url": "https://unica.istruzione.gov.it/cercalatuascuola/istituti/RMIC8F2007/ic-sandro-onofri/",
+      "method": "HEAD",
+      "status": 200,
+      "classification": "simple",
+      "notes": "Representative official school detail page accessible in direct requests."
+    },
+    {
+      "url": "https://unica.istruzione.gov.it/cercalatuascuola/caricaProvincia.json?codiceRegione=12",
+      "method": "HEAD",
+      "status": 403,
+      "classification": "hard",
+      "notes": "Official discovery JSON endpoint is browser-sensitive / protected. Do not rely on plain fetch or curl."
+    }
+  ],
+  "canonicalSources": [
+    "https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro",
+    "https://www.mim.gov.it/-/scuola-in-chiaro",
+    "https://dati.istruzione.it/opendata/",
+    "https://unica.istruzione.gov.it/cercalatuascuola/istituti/..."
+  ],
+  "fallbackDiscoverySources": [
+    "https://www.tuttitalia.it/scuole/",
+    "https://www.cercascuole.it/",
+    "https://www.scuoladvisor.it/"
+  ]
+}

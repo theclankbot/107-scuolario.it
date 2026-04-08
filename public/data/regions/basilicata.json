@@ -1,0 +1,19 @@
+{
+  "slug": "basilicata",
+  "name": "Basilicata",
+  "code": "17",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in Basilicata: cerca per provincia, comune e tipologia",
+  "metaTitle": "Scuole in Basilicata: province, comuni e tipologie | Scuolario",
+  "metaDescription": "Trova scuole in Basilicata per provincia, comune e tipologia con dati ufficiali e pagine più facili da consultare.",
+  "provinceCount": 2,
+  "publishedProvinceCount": 1,
+  "publishedCityCount": 2,
+  "publishedSchoolCount": 20,
+  "topSchoolTypes": [
+    { "slug": "istituto-comprensivo", "label": "Istituto comprensivo", "schoolCount": 9 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 4 }
+  ],
+  "featuredProvinceSlugs": ["potenza"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro", "https://dati.istruzione.it/opendata/"]
+}

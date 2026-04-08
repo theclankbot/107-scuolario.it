@@ -1,0 +1,20 @@
+{
+  "slug": "campobasso",
+  "name": "Campobasso",
+  "displayName": "Provincia di Campobasso",
+  "sigla": "CB",
+  "regionSlug": "molise",
+  "publishedAt": null,
+  "h1": "Scuole in provincia di Campobasso: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Campobasso | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Campobasso per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 50,
+  "publishedCityCount": 0,
+  "featuredCitySlugs": [],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 11 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 4 }
+  ],
+  "comparePresetSlugs": [],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}

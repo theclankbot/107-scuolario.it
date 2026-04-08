@@ -1,0 +1,20 @@
+{
+  "slug": "brescia",
+  "name": "Brescia",
+  "displayName": "Provincia di Brescia",
+  "sigla": "BS",
+  "regionSlug": "lombardia",
+  "publishedAt": "2026-04-08T00:00:00.000Z",
+  "h1": "Scuole in provincia di Brescia: comuni, tipologie e istituti",
+  "metaTitle": "Scuole in provincia di Brescia | Comuni, tipologie e istituti",
+  "metaDescription": "Consulta scuole in provincia di Brescia per comune e tipologia con dati ufficiali e confronto rapido.",
+  "schoolCount": 350,
+  "publishedCityCount": 1,
+  "featuredCitySlugs": ["brescia"],
+  "topSchoolTypes": [
+    { "slug": "scuola-primaria", "label": "Scuola primaria", "schoolCount": 78 },
+    { "slug": "liceo-scientifico", "label": "Liceo scientifico", "schoolCount": 28 }
+  ],
+  "comparePresetSlugs": ["brescia-licei-scientifici", "brescia-licei-classici"],
+  "sourceUrls": ["https://unica.istruzione.gov.it/portale/it/scuola-in-chiaro"]
+}
